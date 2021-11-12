@@ -1,0 +1,130 @@
+.background-image{
+    background-image: url(images/1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size:cover;
+    height: 70vh;
+}
+
+.Home{
+    display: flex;
+    float: right;
+    margin-top: -100px;
+    color: white;
+}
+.General{
+    background-color: #E1DFDF;
+    height: 70vh;
+}
+.Services{
+    
+    text-align: center;
+    padding: 40px;
+
+}
+.Numbers{
+    display: flex;
+    background-color: #E1DFDF;
+    height: 80vh;
+}
+.one{
+    width: 25%;
+    height: 250px;
+    margin-left: 150px;
+    margin-top: 40px;
+    background-color: white;
+    text-align: center;
+}
+.two{
+    width: 25%;
+    height: 250px;
+    margin-left: 150px;
+    margin-top: 40px;
+    background-color: white;
+    text-align: center;  
+}
+.three{
+    width: 25%;
+    height: 250px;
+    margin-left: 150px;
+    margin-top: 40px;
+    background-color: white;
+    text-align: center; 
+}
+.Review{
+    display: flex;
+    justify-content: end;
+}
+.Farm{
+    background-color: black;
+    text-align: center;
+    height: 300px;
+    width: 600px;
+    color: white;
+    padding-right: 80px;
+}
+.image{
+    height: 200px;
+    width: 600px;
+    margin-right: px;
+}
+.Menu{
+    text-align: center;
+    padding: 40px;
+    background-color: #E1DFDF;
+}
+
+.Food{
+    flex-wrap: wrap;
+    display: flex;
+    background-color: #E1DFDF;
+    justify-content: center;
+}
+
+.Chapati{
+    display: flex;
+    width: 35%;
+    height: 250px;
+    margin-top: 40px;
+    background-color: white;
+    text-align: center;
+}
+.Beaf{
+    display: flex;
+    width: 35%;
+    height: 250p;
+    margin-left: 150px;
+    margin-top: 40px;
+    background-color: white;
+    text-align: center;
+}
+.Chicken{
+    display: flex;
+    width: 35%;
+    height: 250px;
+    margin-top: 40px;
+    background-color: white;
+    text-align: center;
+}
+.Rice{
+    display: flex;
+    width: 35%;
+    height: 250px;
+    margin-left: 150px;
+    margin-top: 40px;
+    background-color: white;
+    text-align: center;
+}
+button{
+    background-color: gold;
+    font-size: x-large;
+}
+.Order{
+    font-size: xx-large;
+    font-weight: 350;
+}
+.Ksh{
+    color: yellow;
+}
