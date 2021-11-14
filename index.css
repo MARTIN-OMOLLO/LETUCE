@@ -85,7 +85,7 @@
 
 .Chapati{
     display: flex;
-    width: 35%;
+    width: 36%;
     height: 250px;
     margin-top: 40px;
     background-color: white;
@@ -94,7 +94,7 @@
 .Beaf{
     display: flex;
     width: 35%;
-    height: 25px;
+    height: 250px;
     margin-left: 150px;
     margin-top: 40px;
     background-color: white;
