@@ -109,11 +109,11 @@
     text-align: center;
 }
 .Rice{
-    display: flex;
+    display: fle;
     width: 35%;
     height: 250px;
     margin-left: 150px;
-    margin-top: 41px;
+    margin-top: 40px;
     background-color: white;
     text-align: center;
 }
