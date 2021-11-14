@@ -94,7 +94,7 @@
 .Beaf{
     display: flex;
     width: 35%;
-    height: 250p;
+    height: 25px;
     margin-left: 150px;
     margin-top: 40px;
     background-color: white;
@@ -109,7 +109,7 @@
     text-align: center;
 }
 .Rice{
-    display: fle;
+    display: flex;
     width: 35%;
     height: 250px;
     margin-left: 150px;
